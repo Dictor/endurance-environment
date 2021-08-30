@@ -3,6 +3,7 @@ Plugins/
 Intermediate/
 Build/
 Saved/
+Binaries/
 .vs
 
 # don't check-in generated files
