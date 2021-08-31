@@ -9,7 +9,7 @@
 
 ## 현재 맵 들여오기
 1. Airsim/Unreal/Environments/ 하위에 현재 저장소 clone
-2. GenerateProjectFiles.bat 실행
+2. 원래 Blocks 폴더의 이름을 BlocksOriginal로 변경하고 endurance-environment 폴더의 이름을 Blocks로 변경
 3. AirSim\Unreal\Environments\Blocks에서 update_from_git.bat 실행하고 Blocks.project 열기 (bat 미실행시 Airsim 플러그인 미발견 오류 발생함)
 4. Blocks.uproject 파일을 연다
 5.'파일'을 클릭한다 → 프로젝트 패키지 → window(64bit)
